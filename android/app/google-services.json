@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516811638641",
+    "project_id": "smartbikelock-b19ee",
+    "storage_bucket": "smartbikelock-b19ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516811638641:android:3313eaa84de589ed7418d0",
+        "android_client_info": {
+          "package_name": "com.example.smartbikelocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0-Hz-nbRddAZc92z2YnfiW0g1G60xnZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
